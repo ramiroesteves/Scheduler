@@ -1,0 +1,90 @@
+[
+  {
+    "name": "tote_cleaning_1st_half",
+    "required": 1
+  },
+  {
+    "name": "tote_cleaning_2nd_half",
+    "required": 1
+  },
+  {
+    "name": "ipm_1",
+    "required": 1
+  },
+  {
+    "name": "ipm_2",
+    "required": 1
+  },
+  {
+    "name": "ipm_3",
+    "required": 1
+  },
+  {
+    "name": "cml",
+    "required": 1
+  },
+  {
+    "name": "plasma_1st_half",
+    "required": 1
+  },
+  {
+    "name": "plasma_2nd_half",
+    "required": 1
+  },
+  {
+    "name": "coating_feed_1st_half",
+    "required": 1
+  },
+  {
+    "name": "coating_feed_2nd_half",
+    "required": 1
+  },
+  {
+    "name": "coating_unload_1st_half",
+    "required": 1
+  },
+  {
+    "name": "coating_unload_2nd_half",
+    "required": 1
+  },
+  {
+    "name": "leak_test_line2_1st_half",
+    "required": 2
+  },
+  {
+    "name": "leak_test_line2_2nd_half",
+    "required": 2
+  },
+  {
+    "name": "form_fold_line2_1st_half_4blade",
+    "required": 2
+  },
+  {
+    "name": "coil_line2_1st_half",
+    "required": 1
+  },
+  {
+    "name": "print_and_apply_line2_1st_half",
+    "required": 1
+  },
+  {
+    "name": "leak_test_line3_1st_half",
+    "required": 2
+  },
+  {
+    "name": "leak_test_line3_2nd_half",
+    "required": 2
+  },
+  {
+    "name": "form_fold_line3_1st_half_4blade",
+    "required": 2
+  },
+  {
+    "name": "coil_line3_1st_half",
+    "required": 1
+  },
+  {
+    "name": "print_and_apply_line3_1st_half",
+    "required": 1
+  }
+]
