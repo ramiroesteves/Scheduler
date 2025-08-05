@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Jo\u00e3o Silva",
+    "signed_off": [
+      "tote_cleaning",
+      "ipm",
+      "cml"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Maria Santos",
+    "signed_off": [
+      "ipm",
+      "plasma",
+      "coating_feed"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Carlos Lima",
+    "signed_off": [
+      "coating_unload",
+      "leak_test"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ana Costa",
+    "signed_off": [
+      "form_fold_3lam",
+      "coil",
+      "print_and_apply"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pedro Rocha",
+    "signed_off": [
+      "ipm",
+      "leak_test",
+      "coil"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Julia Martins",
+    "signed_off": [
+      "tote_cleaning",
+      "cml",
+      "coating_feed"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rafael Nunes",
+    "signed_off": [
+      "form_fold_4blade",
+      "plasma",
+      "print_and_apply"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Fernanda Dias",
+    "signed_off": [
+      "coating_unload",
+      "coil",
+      "leak_test"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Diego Alves",
+    "signed_off": [
+      "ipm",
+      "form_fold_3lam"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Larissa Moura",
+    "signed_off": [
+      "tote_cleaning",
+      "ipm",
+      "plasma"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Rodrigo Teixeira",
+    "signed_off": [
+      "coating_feed",
+      "form_fold_4blade"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Camila Barbosa",
+    "signed_off": [
+      "cml",
+      "coating_unload"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Bruno Carvalho",
+    "signed_off": [
+      "form_fold_3lam",
+      "leak_test"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Isabela Ferreira",
+    "signed_off": [
+      "coil",
+      "print_and_apply"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Thiago Mendes",
+    "signed_off": [
+      "tote_cleaning",
+      "cml",
+      "ipm"
+    ]
+  }
+]
